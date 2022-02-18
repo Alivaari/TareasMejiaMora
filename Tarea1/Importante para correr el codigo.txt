@@ -1,0 +1,8 @@
+Se utilizó la libreria num2words.
+La forma mas sencilla de instalar es mediante el pip con el
+siguiente comando:
+ 
+pip install num2words
+
+Para más información visitar 
+https://pypi.org/project/num2words/
