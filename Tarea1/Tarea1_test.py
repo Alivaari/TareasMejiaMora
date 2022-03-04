@@ -1,3 +1,4 @@
+# ERR5 -3 No prueba todas las letras en el 1er test
 from num2words import num2words
 from Tarea1 import string_work
 from Tarea1 import num_to_str
